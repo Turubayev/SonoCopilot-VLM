@@ -9,3 +9,6 @@ venv/
 *.dicom
 sonocopilot-report*.json
 *.log
+
+.pytest_cache/
+runs/

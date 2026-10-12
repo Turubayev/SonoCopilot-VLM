@@ -12,3 +12,7 @@ sonocopilot-report*.json
 
 .pytest_cache/
 runs/
+build/
+dist/
+*.spec.bak
+desktop-smoke*.json

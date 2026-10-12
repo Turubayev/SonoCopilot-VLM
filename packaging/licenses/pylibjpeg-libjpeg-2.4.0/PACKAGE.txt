@@ -1,0 +1,3 @@
+Name: pylibjpeg-libjpeg
+Version: 2.4.0
+License: GPL V3.0

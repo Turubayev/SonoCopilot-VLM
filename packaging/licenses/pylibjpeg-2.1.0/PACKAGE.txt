@@ -1,0 +1,3 @@
+Name: pylibjpeg
+Version: 2.1.0
+License: See bundled notices
